@@ -14,3 +14,5 @@ This code exhibits my skills in data cleaning, wrangling, and feature engineerin
 
 BUSINESS SOLUTION
 This code was the first step to creating a machine learning model. Since the models were not made by me, I cannot post the code as part of my portfolio. But for the sake of completeness, the cleaned data was fed to several preliminary models: logistic regression, SVM, ANN, Random Forest, and Gradient Boosting. We focused on tweaking Random Forest models, one for each specialization of the student. From this, we proposed dividing the students into four groups: Loyalists (0.75-1 probabilit), Hostages (0.5-0.75), Defectors (0.25-0.5), and Mercenaries (0-0.25). Based on the characteristics of the student during their bachelor, their probability of staying can be predicted with up to 79% accuracy. With this information, the marketing department can make tailored marketing strategies. 
+
+If this project interests you, I have included the full report called "Final-Report-Team-8.pdf"
